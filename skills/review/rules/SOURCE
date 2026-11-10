@@ -1,0 +1,3 @@
+Copied from github.com/alibaba/open-code-review tag v1.13.6 (commit 891df1b) on 2026-11-05. Matches ocr v1.13.6. Apache-2.0, see LICENSE.
+To refresh: shallow-clone the tag matching `ocr --version` and copy internal/config/rules/{rule_docs,system_rules.json} and internal/config/allowlist/*.json here.
+provider_dirs in ocr_delegate.py mirrors providerDirIgnoreDirs in internal/diff/git.go.

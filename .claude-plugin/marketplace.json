@@ -1,0 +1,12 @@
+{
+  "name": "rv-skill",
+  "owner": { "name": "Brandon Kaplan", "email": "bkaplan31@gmail.com" },
+  "description": "The rv report-only code review skill for Claude Code.",
+  "plugins": [
+    {
+      "name": "rv",
+      "source": "./",
+      "description": "Report-only code review using Open Code Review's per-language rule checklists."
+    }
+  ]
+}

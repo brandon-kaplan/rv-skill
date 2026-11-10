@@ -1,0 +1,10 @@
+{
+  "name": "rv",
+  "version": "1.0.0",
+  "description": "Report-only code review using Open Code Review's per-language rule checklists, no ocr binary needed.",
+  "author": { "name": "Brandon Kaplan", "email": "bkaplan31@gmail.com" },
+  "repository": "https://github.com/brandon-kaplan/rv-skill",
+  "license": "Apache-2.0",
+  "keywords": ["code-review", "review", "open-code-review"],
+  "icon": "./.claude-plugin/icon.png"
+}
